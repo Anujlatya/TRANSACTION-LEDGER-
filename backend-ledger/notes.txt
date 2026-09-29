@@ -1,0 +1,7 @@
+transaction system ledger pe based h ha ha 
+--> sabse pahale ek transaction banana padta ha is me batate ha ke paise kis account se debit honge or kis account pe credit honge or is me amount bhi batana padta ha or is transcation ne ek = idempotency key = milti ha jab bhi ham upi se pay karte ha toh upi account ko bar bar request bhej ta ha ki payment hue ki nhi toh is continuous request ko alag alag karne ke liye ye key generate hote ha 
+
+-> LEDGER <-
+
+ledger ek register ha jisme ham account ka sara data rakte ha ki usne kab kaha konse account ko payment kara or kon se account se paise credit hue sab toh ledger ki help se user ka total balance nikal te ha total credit - total debit 
+-> hab pahale se user ka total balance hard coded nhi kar te ha 
